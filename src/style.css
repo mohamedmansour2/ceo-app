@@ -4,6 +4,7 @@
   box-sizing: border-box;
   font-family: "Cairo";
 }
+
 /* Start CSS First Div */
 .edit-img-info h2 {
   font-size: 25px;
@@ -39,3 +40,13 @@
   font-size: 20px;
 }
 /* End CSS Second Div */
+.main-header {
+  height: 581px;
+  background-image: url("../src/images/Group\ 33142.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.edit-header-title {
+  color: white;
+}
