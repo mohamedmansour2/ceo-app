@@ -81,16 +81,9 @@ span {
   padding: 10px;
   display: flex;
   align-items: center;
+  box-shadow: 0 10px 5px 0 rgba(202, 200, 200, 0.5);
+  cursor: pointer;
 }
 .edit-mian-contant img {
-  width: 35px;
-}
-.edit-mian-contant:hover {
-  box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.19);
-  cursor: pointer;
-  transition: 0.5s;
-  -webkit-transition: 0.5s;
-  -moz-transition: 0.5s;
-  -ms-transition: 0.5s;
-  -o-transition: 0.5s;
+  width: 27px;
 }
